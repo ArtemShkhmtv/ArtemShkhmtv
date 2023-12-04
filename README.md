@@ -1,16 +1,19 @@
-### Hi there 👋
+### Добро пожаловать 👋
 
-<!--
-**ArtemShkhmtv/ArtemShkhmtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+На связи Артем, начинающий веб-разработчик!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+На текущий момент в моем арсенале:
+
+- HTML / CSS
+- JavaScript
+- React
+- Node.js
+- MongoDb
+- Webpack
+
+В ближайших планах: 
+- TypeScript
+- Углубление в React
+
+
