@@ -17,8 +17,8 @@
 - Углубление в React
 - Практика и еще раз практика
 
-Мои контакты^
-email     artemshay@mail.ru
+Мои контакты:  
+email     artemshay@mail.ru  
 telegram  @AShkhmtv
 
 
